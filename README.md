@@ -1,5 +1,5 @@
 ![Unit Tests & Lint](https://github.com/ChtobiUchitsyaNadoBitProfi/online_shedule/workflows/Unit%20Tests%20&%20Lint/badge.svg)
-# Online schedule
+# Расписания занятий
 
 ## Require
 * Ruby 3.0.3
